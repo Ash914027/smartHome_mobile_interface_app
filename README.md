@@ -5,7 +5,7 @@ The project "smartHome_mobile_interface_app" is a mobile interface application f
 
 ## Main Function Points
 - Provides a mobile interface for monitoring and controlling the temperature in a smart home 🌡️.
-- Allows users to check the current temperature and potentially make adjustments ⚙️.
+- Allows users to check the current temperature and potentially make adjustments ⚙️..
 
 ## Technology Stack
 - JavaScript 💻
