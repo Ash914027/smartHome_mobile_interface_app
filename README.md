@@ -14,4 +14,4 @@ The project "smartHome_mobile_interface_app" is a mobile interface application f
 - genrative ai  🤖
 
 ## License
-The project does not specify a license, so the default copyright laws apply. 🔒
+The project does not specify a license, so the default copyright laws apply.. 🔒
