@@ -12,7 +12,7 @@ and music based on user preferences.
 
 ## Prompt 2
 Use icon fonts to display light, temperature, and music icons next to
-each section heading and for the corresponding buttons. 
+each section heading and for the corresponding buttons. .
 
 ## Prompt 3
 Next, apply CSS styles to achieve a mobile-friendly layout with a
