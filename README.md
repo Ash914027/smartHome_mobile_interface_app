@@ -3,7 +3,7 @@
 ## Overview
 The project "smartHome_mobile_interface_app" is a mobile interface application for checking temperature in a smart home environment. It is a public repository on GitHub, created by the user Ash914027. 
 
-## Main Function Points
+## Main Function Points.
 - Provides a mobile interface for monitoring and controlling the temperature in a smart home 🌡️.
 
 ## Technology Stack
